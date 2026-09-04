@@ -6,16 +6,17 @@ Una colección modular y verificada de binarios de cargadores de arranque (`FDL1
 
 Los binarios están categorizados estrictamente según su arquitectura de SoC para evitar errores de incompatibilidad al flashear:
 
-* **`SC7731E/`** - Cargadores para dispositivos de gama de entrada con SC7731E.
-* **`SC9832E/`** - Cargadores para arquitectura SC9832E.
-* **`SC9863A_32/`** - Cargadores para implementaciones de 32 bits de SC9863A.
-* **`SC9863A_64/`** - Cargadores para implementaciones de 64 bits de SC9863A.
+* **`SC7731E/`** - Cargadores para SC7731E.
+* **`SC9832E/`** - Cargadores para SC9832E.
+* **`SC9863A_32/`** - Cargadores para SC9863A.
+* **`SC9863A_64/`** - Cargadores para SC9863A.
 * **`T310/`** - Cargadores para Tiger T310.
 * **`T606/`** - Cargadores para Tiger T606.
 * **`T610/`** - Cargadores para Tiger T610.
 * **`T612/`** - Cargadores para Tiger T612.
 * **`T616/`** - Cargadores para Tiger T616.
 * **`T618/`** - Cargadores para Tiger T618.
+* **`T700/`** - Cargadores para Tiger T700.
 
 ## ⚠️ Notas Técnicas Importantes
 

@@ -11,7 +11,7 @@ Los binarios están categorizados estrictamente según su arquitectura de SoC pa
 * **`SC9863A_32/`** - Cargadores para SC9863A.
 * **`SC9863A_64/`** - Cargadores para SC9863A.
 * **`T310/`** - Cargadores para Tiger T310.
-* **`T310/`** - Cargadores para Tiger T603.
+* **`T603/`** - Cargadores para Tiger T603.
 * **`T606/`** - Cargadores para Tiger T606.
 * **`T610/`** - Cargadores para Tiger T610.
 * **`T612/`** - Cargadores para Tiger T612.
